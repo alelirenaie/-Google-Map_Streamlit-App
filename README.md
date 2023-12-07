@@ -1,4 +1,9 @@
-# -Google-Map_Streamlit-App
+# Google-Map_Streamlit-App
+
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" width="200px" height="auto"/>
+</p>
 
 
 # Streamlit App with Embedded Google Maps
@@ -8,9 +13,14 @@
 The app is deployed on [Streamlit](https://www.streamlit.io/) and can be accessed publicly
 
 APP LINK: https://pretty-sites-hang.loca.lt/
+
+
 IP ADDRESS: 35.231.31.226
 
+## Overview
+
 This Streamlit app demonstrates how to embed a Google Map into a form using HTML iframe. The app allows users to customize the map, including the location, size, and zoom level, and then embeds the map in a Google Form.
+
 
 **Note:** Embedding Google Maps might require proper usage rights and compliance with Google's terms of service. Always ensure you have the right permissions for the content you are embedding.
 

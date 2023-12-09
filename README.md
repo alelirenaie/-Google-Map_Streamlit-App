@@ -12,10 +12,8 @@
 
 The app is deployed on [Streamlit](https://www.streamlit.io/) and can be accessed publicly
 
-APP LINK: https://pretty-sites-hang.loca.lt/
+APP LINK:  https://sour-toys-sniff.loca.lt/
 
-
-IP ADDRESS: 35.231.31.226
 
 ## Overview
 
